@@ -75,6 +75,9 @@ will generate this output:
 Changelog
 =========
 
+## 1.1
+- Added a java translation of the c++ code
+
 ## 1.0
 - First release of the program
 
