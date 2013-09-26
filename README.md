@@ -51,6 +51,7 @@ I   I   I      I   I  -------   I
 I   I   --------   I  I  D  I   I
 I   ----------------  -------   I
 ---------------------------------
+``` 
 
 will generate this output:
 
@@ -69,7 +70,7 @@ will generate this output:
       D
    </div>
 </div>
-``` 
+```
 
 Changelog
 =========
